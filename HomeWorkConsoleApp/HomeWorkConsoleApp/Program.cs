@@ -7,6 +7,7 @@ namespace HomeWorkConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Home Work!");
+            Console.WriteLine("with some changes...");
         }
     }
 }
