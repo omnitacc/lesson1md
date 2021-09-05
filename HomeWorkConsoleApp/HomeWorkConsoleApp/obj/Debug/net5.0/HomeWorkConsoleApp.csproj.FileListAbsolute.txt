@@ -1,0 +1,16 @@
+D:\Study\CSharp\Prakses\Repos\Lesson1md\HomeWorkConsoleApp\HomeWorkConsoleApp\bin\Debug\net5.0\HomeWorkConsoleApp.exe
+D:\Study\CSharp\Prakses\Repos\Lesson1md\HomeWorkConsoleApp\HomeWorkConsoleApp\bin\Debug\net5.0\HomeWorkConsoleApp.deps.json
+D:\Study\CSharp\Prakses\Repos\Lesson1md\HomeWorkConsoleApp\HomeWorkConsoleApp\bin\Debug\net5.0\HomeWorkConsoleApp.runtimeconfig.json
+D:\Study\CSharp\Prakses\Repos\Lesson1md\HomeWorkConsoleApp\HomeWorkConsoleApp\bin\Debug\net5.0\HomeWorkConsoleApp.runtimeconfig.dev.json
+D:\Study\CSharp\Prakses\Repos\Lesson1md\HomeWorkConsoleApp\HomeWorkConsoleApp\bin\Debug\net5.0\HomeWorkConsoleApp.dll
+D:\Study\CSharp\Prakses\Repos\Lesson1md\HomeWorkConsoleApp\HomeWorkConsoleApp\bin\Debug\net5.0\ref\HomeWorkConsoleApp.dll
+D:\Study\CSharp\Prakses\Repos\Lesson1md\HomeWorkConsoleApp\HomeWorkConsoleApp\bin\Debug\net5.0\HomeWorkConsoleApp.pdb
+D:\Study\CSharp\Prakses\Repos\Lesson1md\HomeWorkConsoleApp\HomeWorkConsoleApp\obj\Debug\net5.0\HomeWorkConsoleApp.csproj.AssemblyReference.cache
+D:\Study\CSharp\Prakses\Repos\Lesson1md\HomeWorkConsoleApp\HomeWorkConsoleApp\obj\Debug\net5.0\HomeWorkConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\CSharp\Prakses\Repos\Lesson1md\HomeWorkConsoleApp\HomeWorkConsoleApp\obj\Debug\net5.0\HomeWorkConsoleApp.AssemblyInfoInputs.cache
+D:\Study\CSharp\Prakses\Repos\Lesson1md\HomeWorkConsoleApp\HomeWorkConsoleApp\obj\Debug\net5.0\HomeWorkConsoleApp.AssemblyInfo.cs
+D:\Study\CSharp\Prakses\Repos\Lesson1md\HomeWorkConsoleApp\HomeWorkConsoleApp\obj\Debug\net5.0\HomeWorkConsoleApp.csproj.CoreCompileInputs.cache
+D:\Study\CSharp\Prakses\Repos\Lesson1md\HomeWorkConsoleApp\HomeWorkConsoleApp\obj\Debug\net5.0\HomeWorkConsoleApp.dll
+D:\Study\CSharp\Prakses\Repos\Lesson1md\HomeWorkConsoleApp\HomeWorkConsoleApp\obj\Debug\net5.0\ref\HomeWorkConsoleApp.dll
+D:\Study\CSharp\Prakses\Repos\Lesson1md\HomeWorkConsoleApp\HomeWorkConsoleApp\obj\Debug\net5.0\HomeWorkConsoleApp.pdb
+D:\Study\CSharp\Prakses\Repos\Lesson1md\HomeWorkConsoleApp\HomeWorkConsoleApp\obj\Debug\net5.0\HomeWorkConsoleApp.genruntimeconfig.cache
